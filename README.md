@@ -114,6 +114,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 102   | 20 NLP Project with Python                                   | [👆](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
 | 103   | Learning Material for Deep Learning, ML, Computer Vision and NLP   | [👆](https://github.com/kmario23/deep-learning-drizzle) |
 | 104   | Customer Churn Prediction & Agentic Retention Strategy| [👆](https://github.com/connectwithvanshika/customer_churn_prediction) |
+| 105  | Loan-Approval-System| [👆](https://github.com/connectwithvanshika/Loan-Approval-System) |
 ***More Projects list is coming...!!!***
 
 ---
